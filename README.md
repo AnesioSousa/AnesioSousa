@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently becoming a AWS solutions architect associate.
-- 🌱 I'm a Javascript and Python expert.
+- 🌱 I'm a Javascript and Python lover.
 - 👯 I’m looking to collaborate with people who love solving problems.
 - 💬 Ask me about math, tech, science, movies, drama, guitar and so much more! (I love to learn new things).
 - 📫 How to reach me - this is my linkedin account: https://www.linkedin.com/in/anésio-neto-75063a243/
