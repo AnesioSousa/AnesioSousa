@@ -5,8 +5,9 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently becoming a AWS solutions architect associate.
-- 🌱 I'm a Javascript and Python lover.
+- ✨ Second place in the team battle for best product on MI-Engenharia de Software 2022 (Software Engineering) dispute at Universidade Estadual de Feira de Santana.
+- 🔭 Currently becoming a AWS solutions architect associate.
+- 🌱 Frontend and Data Science.
 - 👯 I’m looking to collaborate with people who love solving problems.
 - 💬 Ask me about math, tech, science, movies, drama, guitar and so much more! (I love to learn new things).
 - 📫 How to reach me - this is my linkedin account: https://www.linkedin.com/in/anésio-neto-75063a243/
