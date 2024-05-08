@@ -28,3 +28,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me - this is my linkedin account: https://www.linkedin.com/in/anésio-neto-75063a243/
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: Do you know that high now, in the moment that you are reading this, we are spinning approximately at 107.000 km/h? Hold on to something!
+
+
+<div  display="flex" , align="center"> 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,typescript,react,jest,cypress,java,spring,postgres,mysql,docker,kubernetes,aws,GPC" />
+  </a>
+
+</p>
+</div>
+  <br></br>
