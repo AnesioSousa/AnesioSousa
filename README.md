@@ -1,41 +1,25 @@
-### Olá 👋, Seja bem vindo a minha conta do Github
+### Olá 👋, tudo bem? Qual o seu nome? Se acanhe não! Sou assim msm, chego falando logo, brincando com todo mundo! Adoro falar com gente! Me chamam de Anésio e abaixo você encontra algumas informações sobre mim e sobre meu trabalho, quem sabe você me conhecendo melhor me chame pros almoços de domingo né? :P
 
 <!--
 **AnesioSousa/AnesioSousa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 -->
-- ✨ Segundo lugar na disputa de times com a melhor solução para o problema da casa de apostas do MI-Engenharia de Software 2022.2 na Universidade Estadual de Feira de Santana.
+- ✨ Bacharel em formação do curso de engenharia de computação pela Universidade Estadual de Feira de Santana (UEFS).
 - 🔭 Atualmente se tornando um Arquiteto de Soluções associado à AWS (Amazon Web Services).
-- 🌱 Foco em WebDev e Ciência de Dados.
-- 👯 Sempre em busca de resolver os problemas para pessoas cooperando com outros desenvolvedores.
+- 🌱 Mente, corpo e engenharia.
+- 👯 Tá com algum problema? Fala comigo! Podemos nos ajudar! 
 - 📫 Entra em contato comigo! Aqui está meu perfil do linkedin: https://www.linkedin.com/in/anésio-neto-75063a243/
 
 <hr>
 
-### Hi there 👋, welcome to my github account
-
-<!--
-**AnesioSousa/AnesioSousa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
--->
-- ✨ Second place in the team battle for best product on MI-Engenharia de Software 2022 (Software Engineering) dispute at Universidade Estadual de Feira de Santana.
-- 🔭 Currently becoming a AWS solutions architect associate.
-- 🌱 Web development and Data Science.
-- 👯 I’m looking to collaborate with people who love solving problems.
-- 💬 Ask me about math, tech, science, movies, drama, guitar and so much more! (I love to learn new things).
-- 📫 How to reach me - this is my linkedin account: https://www.linkedin.com/in/anésio-neto-75063a243/
-- 😄 Pronouns: he/him/his
-- ⚡ Fun fact: Do you know that high now, in the moment that you are reading this, we are spinning approximately at 107.000 km/h? Hold on to something!
-
+### Algumas das tecnologias que posso utilizar para ajudar você! (lista não exaustiva) :P
 
 <div  display="flex" , align="center"> 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,typescript,react,jest,cypress,java,spring,postgres,mysql,docker,kubernetes,aws,GPC" />
+    <img src="https://skillicons.dev/icons?i=git,jenkins,python,flask,java,spring,postgres,mysql,ubuntu,kali,docker,kubernetes,aws" />
   </a>
-
 </p>
 </div>
-  <br></br>
+<br></br>
