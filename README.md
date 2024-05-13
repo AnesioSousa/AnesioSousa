@@ -13,12 +13,12 @@ Here are some ideas to get you started:
 
 <hr>
 
-### Algumas das tecnologias que posso utilizar para ajudar você! (lista não exaustiva)
+### Algumas das ferramentas que posso utilizar para ajudar você! (lista não exaustiva)
 
 <div  display="flex" , align="center"> 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,jenkins,python,flask,java,spring,postgres,mysql,ubuntu,kali,docker,kubernetes,aws" />
+    <img src="https://skillicons.dev/icons?i=git,jenkins,python,java,postgres,mongo,ubuntu,kali,docker,kubernetes,aws" />
   </a>
 </p>
 </div>
