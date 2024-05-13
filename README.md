@@ -1,4 +1,4 @@
-### Olá 👋, tudo bem? Qual o seu nome? Se acanhe não! Sou assim msm, chego falando logo, brincando com todo mundo! Adoro falar com gente! Me chamam de Anésio e abaixo você encontra algumas informações sobre mim e sobre meu trabalho, quem sabe você me conhecendo melhor me chame pros almoços de domingo né? :P
+### E ai 👋, tudo tranquilo? Qual o seu nome? Se acanhe não! Sou assim msm, chego falando logo, brincando com todo mundo! Adoro falar com gente! Me chamam de Anésio e abaixo você encontra algumas informações sobre mim e sobre meu trabalho, quem sabe você me conhecendo melhor me chame pros almoços de domingo né? :P
 
 <!--
 **AnesioSousa/AnesioSousa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
