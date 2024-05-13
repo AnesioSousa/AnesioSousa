@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 
 <hr>
 
-### Algumas das tecnologias que posso utilizar para ajudar você! (lista não exaustiva) :P
+### Algumas das tecnologias que posso utilizar para ajudar você! (lista não exaustiva)
 
 <div  display="flex" , align="center"> 
 <p align="center">
