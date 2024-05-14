@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <div  display="flex" , align="center"> 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,jenkins,python,java,postgres,mongo,ubuntu,kali,docker,kubernetes,aws" />
+    <img src="https://skillicons.dev/icons?i=git,jenkins,python,flask,django,postgres,mongo,ubuntu,kali,docker,kubernetes,aws" />
   </a>
 </p>
 </div>
