@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <div  display="flex" , align="center"> 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=excel,git,jenkins,python,flask,django,postgres,mongo,ubuntu,kali,windows,docker,kubernetes,aws" />
+    <img src="https://skillicons.dev/icons?i=git,python,postgres,ubuntu,windows,docker" />
   </a>
 </p>
 <ul></ul>
