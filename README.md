@@ -1,3 +1,4 @@
+<hr>
 ### Como a lógica pode orquestrar as emoções?
 Fala comigo que vamos descobrindo juntos! :P
 
@@ -13,16 +14,3 @@ Here are some ideas to get you started:
 -  Esse é meu perfil lá no linkedin: <https://www.linkedin.com/in/anésio-neto-75063a243/>
 
 <hr>
-
-### Algumas das ferramentas que posso utilizar para ajudar você! (lista não exaustiva)
-
-<div  display="flex" , align="center"> 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,python,postgres,ubuntu,windows,docker" />
-  </a>
-</p>
-<ul></ul>
-</div>
-<br></br>
-Abraço!
