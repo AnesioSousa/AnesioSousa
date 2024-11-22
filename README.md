@@ -1,5 +1,5 @@
 <hr>
-<h1>Engineering (UEFS) </h1>
+<h1>Engineering (ECOMP UEFS) </h1>
 
 <!--
 **AnesioSousa/AnesioSousa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
