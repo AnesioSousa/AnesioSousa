@@ -1,6 +1,10 @@
 <hr>
-<h1>Engineering (ECOMP UEFS) </h1>
-![](https://github.com/AnesioSousa/neural-network.gif)
+
+<div>
+  <h1>Engineering (ECOMP UEFS)</h1>
+  <img style="background-color:rgb(255,0,0); border-radius: 15px;" src="https://github.com/AnesioSousa/AnesioSousa/raw/main/neural-network.gif"/>
+</div>
+
 
 <!--
 **AnesioSousa/AnesioSousa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
