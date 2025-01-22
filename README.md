@@ -1,10 +1,3 @@
-<div style="display: flex; justify-content: center; align-items: center;">
-  <hr>
-  <img src="https://github.com/AnesioSousa/AnesioSousa/raw/main/neural-network.gif" width="auto" height="480px"/>
-  <hr>
-  <img src="https://www.instaclustr.com/wp-content/uploads/2021/10/pasted-image-0-1-1-791x1024.png" />
-  <hr>
-</div>
 <section>
   <h2>Engenharia de Computação - Universidade Estadual de Feira de Santana (UEFS)</h2>
   <ul>
@@ -15,4 +8,7 @@
     <li><a href="https://site-ecompjr-8381c90986b5.herokuapp.com/">Site da Empresa Júnior</a></li>
     <li><a href="https://www.seminarioppedu.com.br/">Site do Seminário PPEDU</a></li>
   </ul>
+  <hr>
+  <img src="https://www.instaclustr.com/wp-content/uploads/2021/10/pasted-image-0-1-1-791x1024.png" />
+  <hr>
 </section>
