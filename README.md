@@ -9,6 +9,24 @@
     <li><a href="https://www.tmjr.com.br/">Site da Empresa Júnior de Engenharia Mecânica</a></li>
   </ul>
   <hr>
-  <img src="https://www.instaclustr.com/wp-content/uploads/2021/10/pasted-image-0-1-1-791x1024.png" />
+  <div style="display:flex;justify-content:space-around;">
+      <img src="https://www.instaclustr.com/wp-content/uploads/2021/10/pasted-image-0-1-1-791x1024.png" width="197px" height="256px"/>
+      <img src="https://m.media-amazon.com/images/I/6139D6ARtsS._SL1500_.jpg" width="197px" height="256px"/>
+      <img src="https://m.media-amazon.com/images/I/91yYn6cJaLL._SL1500_.jpg" width="197px" height="256px"/>
+      <img src="https://m.media-amazon.com/images/I/71f3G1uwtxL._SL1465_.jpg" width="197px" height="256px"/>
+      <img src="https://m.media-amazon.com/images/I/61Y0IuO7XTL._SL1001_.jpg" width="197px" height="256px"/>
+      <img src="https://m.media-amazon.com/images/I/81ykBjVaUjL._SL1500_.jpg" width="197px" height="256px"/>
+      <img alt="capa do livro clean code" src="https://m.media-amazon.com/images/I/71JpZHEGvWL._SL1500_.jpg" width="197px" height="256px"/>
+      <img alt="capa do livro clean architecture" src="https://m.media-amazon.com/images/I/815d9tE7jSL._SL1500_.jpg" width="197px" height="256px"/>
+      <img src="https://m.media-amazon.com/images/I/81sTm5M7wjL._SL1500_.jpg" width="197px" height="256px"/>
+      <img src="https://m.media-amazon.com/images/I/91nsBQAuCML._SL1500_.jpg" width="197px" height="256px"/>
+      <img alt="capa do livro ccna volume 1" src="https://m.media-amazon.com/images/I/71gD35bBXGL._SL1500_.jpg" width="197px" height="256px"/>
+      <img alt="capa do livro ccna volume 2" src="https://m.media-amazon.com/images/I/716lY93idcL._SL1500_.jpg" width="197px" height="256px"/>
+      <img alt="capa do livro sistemas operacionais modernos" src="https://m.media-amazon.com/images/I/81TqQbBQKPL._SL1500_.jpg" width="197px" height="256px"/>
+      <img alt="capa do livro organização de computadores edição ARM" src="https://m.media-amazon.com/images/I/51eivuZb1uL.jpg" width="197px" height="256px"/>
+      <img alt="capa do livro cormen algoritmos" src="https://m.media-amazon.com/images/I/71QtOUBMtNL._SL1500_.jpg" width="197px" height="256px"/>
+      
+    
+  </div>
   <hr>
 </section>
