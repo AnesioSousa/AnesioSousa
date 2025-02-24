@@ -22,11 +22,12 @@
       <img src="https://m.media-amazon.com/images/I/91nsBQAuCML._SL1500_.jpg" width="197px" height="256px"/>
       <img alt="capa do livro ccna volume 1" src="https://m.media-amazon.com/images/I/71gD35bBXGL._SL1500_.jpg" width="197px" height="256px"/>
       <img alt="capa do livro ccna volume 2" src="https://m.media-amazon.com/images/I/716lY93idcL._SL1500_.jpg" width="197px" height="256px"/>
-      <img alt="capa do livro aho compiladores" src="https://m.media-amazon.com/images/I/615gIucTXqL._SL1073_.jpg" width="197px" height="256px"/>
+      <img alt="capa do livro aho compiladores" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRm4dM7D06OcxDW-PDDQI2X31Zlv35i-Wd8bw&s" width="197px" height="256px"/>
       <img alt="capa do livro sistemas operacionais modernos" src="https://m.media-amazon.com/images/I/81TqQbBQKPL._SL1500_.jpg" width="197px" height="256px"/>
       <img alt="capa do livro organização de computadores edição ARM" src="https://m.media-amazon.com/images/I/51eivuZb1uL.jpg" width="197px" height="256px"/>
       <img alt="capa do livro cormen algoritmos" src="https://m.media-amazon.com/images/I/71QtOUBMtNL._SL1500_.jpg" width="197px" height="256px"/>
       <img alt="capa do livro deep learning for coders" src="https://m.media-amazon.com/images/I/91CB1tXICjL._SL1500_.jpg" width="197px" height="256px"/>
+    
   </div>
   <hr>
 </section>
