@@ -9,7 +9,7 @@
     <li><a href="https://www.tmjr.com.br/">Site da Empresa Júnior de Engenharia Mecânica</a></li>
   </ul>
   <hr>
-  <h3>Abaixo algumas das referências bibliográficas que acumulei e que venho mantendo ao longo de minha carreira acadêmica:</h3>
+  <h3>Referências bibliográficas:</h3>
   <div style="display:flex;justify-content:space-around;">
       <img src="https://m.media-amazon.com/images/I/6139D6ARtsS._SL1500_.jpg" width="197px" height="256px"/>
       <img src="https://m.media-amazon.com/images/I/91yYn6cJaLL._SL1500_.jpg" width="197px" height="256px"/>
@@ -26,8 +26,7 @@
       <img alt="capa do livro sistemas operacionais modernos" src="https://m.media-amazon.com/images/I/81TqQbBQKPL._SL1500_.jpg" width="197px" height="256px"/>
       <img alt="capa do livro organização de computadores edição ARM" src="https://m.media-amazon.com/images/I/51eivuZb1uL.jpg" width="197px" height="256px"/>
       <img alt="capa do livro cormen algoritmos" src="https://m.media-amazon.com/images/I/71QtOUBMtNL._SL1500_.jpg" width="197px" height="256px"/>
-      
-    
+      <img alt="capa do livro deep learning for coders" src="https://m.media-amazon.com/images/I/91CB1tXICjL._SL1500_.jpg" width="197px" height="256px"/>
   </div>
   <hr>
 </section>
